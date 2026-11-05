@@ -1,3 +1,9 @@
+"""
+Elliot Lacassagne
+406
+Combat de monstre
+"""
+
 import random
 
 
